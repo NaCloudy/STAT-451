@@ -47,7 +47,7 @@
 
 	- **body**: describe data, ML analysis, results
 
-		<img src="./notes.assets/image-20241106195056227.png" alt="image-20241106195056227" style="zoom:40%;" />
+	  ![alt text](https://github.comNaCloudy/STAT-451/blob/main/img/notes_report_body.png?raw=true)
 
 	-  **conclusion**: revisit question & conclusion, suggest future work
 
