@@ -47,7 +47,7 @@
 
 	- **body**: describe data, ML analysis, results
 
-	  ![alt text](https://github.comNaCloudy/STAT-451/blob/main/img/notes_report_body.png?raw=true)
+	  ![alt text](https://github.com/NaCloudy/STAT-451/blob/main/img/notes_report_body.png?raw=true)
 
 	-  **conclusion**: revisit question & conclusion, suggest future work
 
